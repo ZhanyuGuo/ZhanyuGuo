@@ -5,10 +5,6 @@
 - 🌱 I’m interested in Motion Planning, Computer Graphics, Computer Vision, Robotics and Control Science.
 - 😄 I'm also interested in Xiangqi, League of Legends and Basketball.
 
-| <a href="https://github.com/ZhanyuGuo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhanyuGuo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&cache_seconds=3600" /></a> | <a href="https://github.com/ZhanyuGuo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanyuGuo&layout=compact&theme=buefy&hide_border=true&cache_seconds=3600" /></a> |
-| ------------- | ------------- |
-
-
 <!--
 **ZhanyuGuo/ZhanyuGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
