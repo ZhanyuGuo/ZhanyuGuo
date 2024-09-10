@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Motion Planning.
+- 🔭 I’m currently working on Perception and Motion Planning.
 - 📝 I'm currently pursuing a master's degree in control science and engineering at Tongji University.
-- 🌱 I’m interested in Motion Planning, Computer Graphics, Computer Vision, Robotics and Control Science.
-- 😄 I'm also interested in Xiangqi, League of Legends and Basketball.
+- 🌱 I’m interested in Motion Planning, Computer Vision, Computer Graphics, Robotics and Control Science.
+- 😄 I'm also interested in xiangqi, League of Legends and basketball.
+- 📫 How to reach me: guo.zhanyu@qq.com
 
 <!--
 **ZhanyuGuo/ZhanyuGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
