@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Perception and Motion Planning.
+- 🔭 I’m currently working on perception, prediction, planning and control.
 - 📝 I'm currently pursuing a master's degree in control science and engineering at Tongji University.
 - 🌱 I’m interested in Motion Planning, Computer Vision, Computer Graphics, Robotics and Control Science.
-- 😄 I'm also interested in xiangqi, League of Legends and basketball.
+- 😄 I'm also interested in xiangqi, majsoul, League of Legends and basketball.
 - 📫 How to reach me: guo.zhanyu@qq.com
 
 <!--
